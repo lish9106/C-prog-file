@@ -8,4 +8,3 @@ big3.o: big3.c
 	gcc -c big3.c
 rev.o: rev.c
 	gcc -c rev.c
-
